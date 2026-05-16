@@ -5,7 +5,3 @@ mac
 awcc
 xps
 latitude
-precision
-inspiron
-dell pro
-vostro
