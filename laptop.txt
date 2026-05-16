@@ -1,0 +1,7 @@
+dell
+lenovo
+hp
+mac
+awcc
+xps
+latitude
